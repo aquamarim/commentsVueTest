@@ -1,0 +1,9 @@
+D:\fullstack_test\DAL.Models\bin\Debug\netcoreapp3.1\DAL.Models.deps.json
+D:\fullstack_test\DAL.Models\bin\Debug\netcoreapp3.1\DAL.Models.dll
+D:\fullstack_test\DAL.Models\bin\Debug\netcoreapp3.1\DAL.Models.pdb
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.csprojAssemblyReference.cache
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.AssemblyInfoInputs.cache
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.AssemblyInfo.cs
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.csproj.CoreCompileInputs.cache
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.dll
+D:\fullstack_test\DAL.Models\obj\Debug\netcoreapp3.1\DAL.Models.pdb
